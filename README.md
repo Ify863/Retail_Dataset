@@ -1,4 +1,6 @@
  Retail Sales Analysis
+
+ 
      This project explores a retail sales dataset containing transaction records across different product categories, customer demographics, and time periods. The dataset was cleaned using Excel, analyzed through Exploratory Data Analysis (EDA) in Python (Jupyter Notebook), and visualized using Power BI dashboards.
     
      The analysis focuses on:
