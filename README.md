@@ -1,8 +1,13 @@
  Retail Sales Analysis
+     This project explores a retail sales dataset containing transaction records across different product categories, customer demographics, and time periods. The dataset was cleaned using Excel, analyzed through Exploratory Data Analysis (EDA) in Python (Jupyter Notebook), and visualized using Power BI dashboards.
+    
+     The analysis focuses on:
+- Sales trends over time (seasonality and peak periods)
+- Product category performance (Electronics, Clothing, Beauty, etc.)
+- Customer insights (gender, age distribution, purchase behavior)
+- Revenue contribution and quantity sold across categories 
 
-This project provides a detailed exploratory analysis of retail sales data to uncover key trends and insights. It helps businesses understand customer purchasing behavior, evaluate product performance, and optimize sales strategies across regions and time periods.
-
- Objectives
+   Objectives
 - Explore and understand the structure of the retail dataset
 - Identify top-performing and underperforming products
 - Analyze sales trends over time (daily, weekly, monthly)
@@ -63,6 +68,8 @@ ________________________________________
 •	Forecast future sales using time-series models
 •	Add product-level profitability metrics
 ________________________________________
+
+PowerBi Link-  https://drive.google.com/file/d/1-VdcIwoh4Pyyzjj4OVvmZVR5n73g3Ocf/view?usp=drive_link
  Contact
 Made by Olanipekun
 Akure, Nigeria
